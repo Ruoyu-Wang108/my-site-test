@@ -1,2 +1,3 @@
-# my-site-test
-Testing a webpage with ph-pages!
+# Ruoyu's awesome website
+
+Look at all my cool data science projects!
